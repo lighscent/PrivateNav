@@ -1,0 +1,8 @@
+{
+  "name": "privatenav",
+  "version": "a0.1",
+  "description": "A private web browser",
+  "main": "main.js",
+  "author": "light2k4",
+  "license": "MIT"
+}
